@@ -50,7 +50,7 @@ class Count{
 
     private static int counter;
 
-    public Count(){
+    public  Count(){
         counter++;
     }
 
